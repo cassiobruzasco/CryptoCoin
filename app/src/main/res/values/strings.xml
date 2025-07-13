@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crypto Coin Challenge</string>
+    <string name="no_coin_name">No nome</string>
+    <string name="no_coin_symbol">No symbol</string>
+    <string name="no_coin_image">No image</string>
+    <string name="home_coin_title">List of Crypto Coins</string>
+    <string name="home_coin_empty">List of Crypto Coins is empty</string>
+    <string name="home_coin_error">Error: %s</string>
+    <string name="retry">Retry</string>
+    <string name="back_to_all_coins">Back to all coins</string>
+    <string name="details_coin_description">This is a cryptocurrency coin which is a digital asset that operates on its own blockchain and is used as a medium of exchange or store of value.\nIt enables decentralized, secure, and borderless transactions.</string>
+    <string name="details_coin_price">$%1.2f (Current Price USD)</string>
+</resources>
