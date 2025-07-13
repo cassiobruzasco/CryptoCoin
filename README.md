@@ -35,10 +35,7 @@ A simple Android app built with Kotlin and Jetpack Compose that displays a list 
    ```bash
    git clone git@github.com:cassiobruzasco/CryptoCoin.git
 
-2. Add your DEMO CoinGecko API key:
-   - In local.properties: `COIN_GECKO_API_KEY=your_api_key_here`
-
-3. Build and run the app in Android Studio.
+2. Build and run the app in Android Studio.
    - Click "Run" in Android Studio
    - Or run from terminal:
  ```bash
