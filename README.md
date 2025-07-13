@@ -39,8 +39,26 @@ A simple Android app built with Kotlin and Jetpack Compose that displays a list 
    - In local.properties: `COIN_GECKO_API_KEY=your_api_key_here`
 
 3. Build and run the app in Android Studio.
- - Click "Run" in Android Studio
- - Or run from terminal:
+   - Click "Run" in Android Studio
+   - Or run from terminal:
  ```bash
   ./gradlew installDebug
  ```
+## 📱 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><strong>Home</strong></td>
+    <td align="center"><strong>Details</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4b7dfcf8-524e-43e6-affb-8febff98cab9" width="360" height="780" alt="Home Screen"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2c59e7c0-4066-4f9f-ac06-44dcb855bea2" width="360" height="780" alt="Details Screen"/>
+    </td>
+  </tr>
+</table>
+
+
